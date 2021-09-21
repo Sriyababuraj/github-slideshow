@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our school slide!"
 ---
-Your text
+Hey I'm here to assist you!Enjoy..
 Use the left arrow to go back!
